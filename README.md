@@ -4,7 +4,7 @@ This repository contains verification code for OEIS sequence A385077.
 
 ## Definition
 
-**Seed primes**: Primes p that cannot be written as p = a + 2*b where a < b are primes.
+**Seed primes and/or prime seeds**: Primes p that cannot be written as p = a + 2*b where a < b are primes.
 
 The complete sequence: **2, 3, 5, 7, 11, 23, 83, 167**
 
