@@ -71,7 +71,7 @@ Iterative application of p + 2q (strict inequality: p < q) starting from just th
 
 ## References
 
-- Juhász, Z., Bartalos, M., Magyar, P., & Farkas, G. (2023). Empirical verification of a new generalisation of Goldbach's conjecture up to 10^{12} (or 10^{13}) for all coefficients <= 40. arXiv:2304.00024
+Zsófia Juhász, Máté Bartalos, Péter Magyar, and Gábor Farkas, <a href="https://arxiv.org/abs/2304.00024">Empirical verification of a new generalisation of Goldbach's conjecture up to 10^{12} (or 10^{13}) for all coefficients <= 40</a>, arXiv:2304.00024 [math.GM], 2023.
 
 ## Author
 
